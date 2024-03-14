@@ -11,7 +11,7 @@
 #define DEFAULT 0
 #define MED   1
 #define FUN   2
-
+ 
 / {
     keymap {
         compatible = "zmk,keymap";
