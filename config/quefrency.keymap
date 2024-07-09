@@ -26,11 +26,11 @@
 
         default_layer {
             bindings = <
-&kp ESC    &kp N1           &kp N2               &kp N3         &kp N4          &kp N5         &kp N6       &kp N7         &kp N8  &kp N9     &kp N0    &kp GREATER_THAN  &kp CAPSLOCK             &kp BSPC             &kp SQT
-&kp ENTER            &kp Q                &kp W          &kp E           &kp R          &kp T               &kp Y          &kp U   &kp I      &kp O     &kp P             &kp MINUS                &kp EQUAL  &kp BSLH             &kp DELETE
-&kp TAB                     &kp A                &kp S          &kp D           &kp F          &kp G        &kp H          &kp J   &kp K      &kp L     &kp SEMI          &kp GRAVE                &kp RET              &kp PG_UP
-&kp LSHFT                   &kp Z                &kp X          &kp C           &kp V          &kp B        &kp N          &kp M   &kp COMMA  &kp DOT   &kp FSLH                        &kp RSHFT             &kp UP    &kp PG_DN
-&kp LCTRL  &kp LCMD         &kp LEFT_ALT                        &mo MED                        &kp SPACE    &kp SEMICOLON                     &kp RALT  &mo MED           &trans                   &kp LEFT             &kp DOWN   &kp RIGHT
+&kp ESC    &kp N1           &kp N2               &kp N3         &kp N4          &kp N5         &kp N6       &kp N7         &kp N8  &kp N9     &kp N0    &kp DOT   &kp CAPSLOCK             &kp BSPC             &kp SQT
+&kp ENTER            &kp Q                &kp W          &kp E           &kp R          &kp T               &kp Y          &kp U   &kp I      &kp O     &kp P     &kp MINUS                &kp EQUAL  &kp BSLH             &kp DELETE
+&kp TAB                     &kp A                &kp S          &kp D           &kp F          &kp G        &kp H          &kp J   &kp K      &kp L     &kp SEMI  &kp GRAVE                &kp RET              &kp PG_UP
+&kp LSHFT                   &kp Z                &kp X          &kp C           &kp V          &kp B        &kp N          &kp M   &kp COMMA  &kp DOT   &kp FSLH                &kp RSHFT             &kp UP    &kp PG_DN
+&kp LCTRL  &kp LCMD         &kp LEFT_ALT                        &mo MED                        &kp SPACE    &kp SEMICOLON                     &kp RALT  &mo MED   &trans                   &kp LEFT             &kp DOWN   &kp RIGHT
             >;
         };
 
